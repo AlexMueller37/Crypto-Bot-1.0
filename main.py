@@ -21,8 +21,8 @@ TRADE_QUANTITY = .5
 buy_price = 0
 sell_price = 0
 
-API_KEY = 'PKEACEMDMC69HGLPAKU0'
-SECRET_KEY = 'SdWuBij5goM1FacHxGBVZPgfObz3X4lg2n0F5Evl'
+API_KEY = '####################' #Alpaca API Key
+SECRET_KEY = '#########################' #Alpaca secret API Key
 
 completed_trade = False 
 
